@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: {cipher}9172fe975719b00641cf2186ff4ac84fb5f953ba0d792ff880f1dbb6ca5d2c3c
+      username: {cipher}9172fe975719b00641cf2186ff4ac84fb5f953ba0d792ff880f1dbb6ca5d2c3c
+      password: {cipher}b3945441620eac9a74d421219d2b7b2ab96c6d71772d7b7d564088ccf69f75d5
+      database: {cipher}326acf2121d4ae97284ab1b0d484b9e59e6b54600ee598eaf3be6b2ef3e72414
