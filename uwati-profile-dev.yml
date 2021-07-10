@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      database: '{cipher}9ef2c38d785ac8550bd34d0ad12b7ca4f0163b8fff133b0b74083eb87b1a4530'
-      username: '{cipher}1e7d4aebe67cadc4675ecb2cefebcab0b91f2de8bd42c2349de9bb1d38069b9f'
-      password: '{cipher}b3945441620eac9a74d421219d2b7b2ab96c6d71772d7b7d564088ccf69f75d5'
+      database: '{cipher}87d847b0933f7f74629cbcb2f03f58cb8da28552ae7e268edfab04df75e274ef'
+      username: '{cipher}2cd9c3aa1a00caa7e7cfdcb337bc37703a71b12e69df1365b1507494ee5b0412'
+      password: '{cipher}c287ea8f91d4b5a835c9885e53cba78f2e30144551449c1726175ae23f67129b'
       
